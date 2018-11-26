@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/Users/philipphackstedt/OdinProject"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "OdinProject"
+	}
+}
